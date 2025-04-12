@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Sharma;Amit;;;
+FN:Amit Sharma
+ORG:SmartCardz
+TITLE:Founder
+TEL;TYPE=work,voice:+911234567890
+EMAIL;TYPE=work:amit@smartcardz.in
+URL:https://unsplash.com/photos/silhouette-of-man-in-black-shirt-becBmRX__C4
+PHOTO;VALUE=URI:https://smartcardz.in/images/amit.jpg
+ADR;TYPE=work:;;Raipur, Chhattisgarh;;;India
+NOTE:NFC + QR Digital Card | Tap & Connect
+END:VCARD
